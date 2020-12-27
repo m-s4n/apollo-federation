@@ -1,0 +1,21 @@
+{
+  "name": "astronaut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/federation": "^0.20.7",
+    "apollo-server": "^2.19.1",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.4.0",
+    "graphql-tools": "^7.0.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
